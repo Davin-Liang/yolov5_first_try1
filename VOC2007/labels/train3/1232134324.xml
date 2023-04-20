@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1232134324.jpg</filename>
+	<path>C:\python Project\yolov5_2\VOC2007\images\train\1232134324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2249</width>
+		<height>1349</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corn fruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>373</ymin>
+			<xmax>1993</xmax>
+			<ymax>1068</ymax>
+		</bndbox>
+	</object>
+</annotation>

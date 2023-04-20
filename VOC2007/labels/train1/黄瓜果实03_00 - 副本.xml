@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>黄瓜果实03_00 - 副本.jpg</filename>
+	<path>C:\python Project\learn_pytorch\yolov5-5.0\VOC2007\JPEGImages\黄瓜果实03_00 - 副本.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2249</width>
+		<height>1349</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>黄瓜果实</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>6</ymin>
+			<xmax>2022</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

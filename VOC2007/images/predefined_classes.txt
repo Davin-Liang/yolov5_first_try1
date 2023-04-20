@@ -1,0 +1,7 @@
+rice vegetation
+core vegetation
+wheat vegetation
+cucumber vegetation
+corn fruit 
+watermelon fruit
+cucumber fruit

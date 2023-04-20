@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>002.jpg</filename>
+	<path>C:\python Project\yolov5_2\VOC2007\images\val\002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3937</width>
+		<height>2362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheat vegetation</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>7</ymin>
+			<xmax>3320</xmax>
+			<ymax>2362</ymax>
+		</bndbox>
+	</object>
+</annotation>

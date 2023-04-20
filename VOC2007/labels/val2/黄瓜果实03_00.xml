@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>黄瓜果实03_00.jpg</filename>
+	<path>C:\python Project\yolov5_2\VOC2007\images\val\黄瓜果实03_00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2249</width>
+		<height>1349</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cucumber fruit</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>955</ymin>
+			<xmax>2249</xmax>
+			<ymax>1349</ymax>
+		</bndbox>
+	</object>
+</annotation>

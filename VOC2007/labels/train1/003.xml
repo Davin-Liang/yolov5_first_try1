@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>003.jpg</filename>
+	<path>C:\python Project\learn_pytorch\yolov5-5.0\VOC2007\JPEGImages\003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3937</width>
+		<height>2362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>小麦植被</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>736</xmin>
+			<ymin>5</ymin>
+			<xmax>2468</xmax>
+			<ymax>2362</ymax>
+		</bndbox>
+	</object>
+</annotation>
