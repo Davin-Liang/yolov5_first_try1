@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rice</folder>
+	<filename>riceimage (13).jpg</filename>
+	<path>C:\python Project\archive\Agricultural-crops\rice\riceimage (13).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rice</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>3</ymin>
+			<xmax>680</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

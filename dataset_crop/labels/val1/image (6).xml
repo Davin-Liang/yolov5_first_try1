@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cucumber</folder>
+	<filename>image (6).jpg</filename>
+	<path>C:\python Project\archive\Agricultural-crops\Cucumber\image (6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>129</ymin>
+			<xmax>899</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>
