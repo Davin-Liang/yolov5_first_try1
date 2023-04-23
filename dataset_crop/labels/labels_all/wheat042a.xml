@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Wheat</folder>
+	<filename>wheat042a.JPG</filename>
+	<path>C:\python Project\yolov5_2\archive\some_more_images\some_more_images\Wheat\wheat042a.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>174</ymin>
+			<xmax>1600</xmax>
+			<ymax>1200</ymax>
+		</bndbox>
+	</object>
+</annotation>
